@@ -29,7 +29,9 @@ Instead of juggling multiple tools, UniAI provides a single, unified AI platform
 - Students (learning, quick info lookups)  
 - Developers (scraping, research assistance)  
 - E-commerce users (product comparison)  
-- Recruiters & professionals (job postings, applications)  
+- Recruiters & professionals (job postings, applications)
+- prototype link
+- UniAI - AI-Powered Product Search https://share.google/IGWHFcL4Z16tDpiCn 
 
  📌 Roadmap
 - [ ] MVP: Natural language → browser action → structured output  
